@@ -1,2 +1,2 @@
-# Parking_management_sytem
+# Parking_management_system
 Parking management system
